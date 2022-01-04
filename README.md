@@ -29,5 +29,5 @@ On your prject directory, run
 ```
 node list.js
 ```
-This creates a text file with a list of all the text from your webpage. The text file contains sorted text, with the number of occurrences for each text.
+This creates a text file(data.txt) with a list of all the text from your webpage. The text file contains sorted text, with the number of occurrences for each text.
 The text file also identifies non-English words.
