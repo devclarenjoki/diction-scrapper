@@ -19,7 +19,7 @@ This application downloads the text on a webpage and outputs a sorted list of th
 - editor: Visual Studio Code(recommended)
 
 ## How to get started
-Clone this repo [here]() unzip it and run the following command:
+Clone this repo [here](https://github.com/claremburu/diction-scrapper.git) unzip it and run the following command:
 ```
 npm install
 ```
