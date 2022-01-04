@@ -11,10 +11,10 @@ const getTextAndWriteToFile = async (url, filename) => {
 
     const $ = cheerio.load(data);
 
-    const postTitles = [];
+    const allText = [];
 
     $("*").each((i, el) => {
-      const postTitle = $(el)
+      const text = $(el)
         .text()
         .replace(/[^a-zA-Z ]/g, " ")
         .toLowerCase()
@@ -22,12 +22,12 @@ const getTextAndWriteToFile = async (url, filename) => {
         .filter((word) => word.length > 0)
         .sort((a, b) => a.localeCompare(b));
 
-      if (postTitle.length > 0) {
-        postTitles.push(...postTitle);
+      if (text.length > 0) {
+        allText.push(...text);
       }
     });
 
-    const uniqueWords = postTitles.reduce((acc, curr) => {
+    const uniqueWords = allText.reduce((acc, curr) => {
       acc[curr] = (acc[curr] || 0) + 1;
       return acc;
     }, {});
