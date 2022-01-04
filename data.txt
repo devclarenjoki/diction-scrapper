@@ -1,0 +1,4363 @@
+a,2642,english
+aa,12,not english
+aaa,12,not english
+aadf,13,not english
+aan,12,not english
+aaron,20,not english
+aau,12,not english
+aaw,13,not english
+ab,24,not english
+abbas,10,not english
+abbott,10,not english
+abdul,12,not english
+abe,12,not english
+ability,7,english
+able,21,english
+abomination,19,english
+about,357,english
+above,19,english
+abrupt,61,english
+absence,7,english
+absolute,6,english
+absorb,42,english
+absorbed,46,english
+absorbing,8,english
+absorbs,14,english
+absorption,39,english
+abundant,7,english
+ac,12,not english
+acad,10,not english
+academia,20,english
+academic,26,english
+academies,73,english
+academy,168,english
+accademia,10,not english
+acceded,7,english
+accelerated,11,english
+accelerates,10,english
+accelerating,22,english
+access,7,english
+accompanying,11,english
+accord,26,english
+according,14,english
+account,10,english
+accounted,7,english
+accounting,10,english
+accountlog,7,not english
+accounts,10,english
+accumulates,7,english
+accumulation,8,english
+accurate,10,english
+achieve,58,english
+achieved,21,english
+achieving,76,english
+achutarao,12,not english
+acidic,8,english
+acidification,120,english
+acidifies,7,english
+acidify,8,english
+acidity,12,english
+acknowledge,7,english
+acp,22,not english
+across,56,english
+acs,12,not english
+act,27,english
+action,126,english
+actions,29,english
+active,8,english
+activists,7,english
+activities,48,english
+activity,77,english
+actors,19,english
+acts,17,english
+actually,10,english
+adams,10,not english
+adapt,65,english
+adaptation,253,english
+adapting,8,english
+adaptive,7,english
+add,17,english
+adding,23,english
+addition,27,english
+additional,54,english
+additions,9,english
+address,14,english
+adger,20,not english
+adjiman,11,not english
+adjustment,17,english
+administration,24,english
+adopted,17,english
+adopts,10,english
+adriana,10,not english
+adult,7,english
+advances,11,english
+advice,7,english
+aerosol,29,english
+aerosols,109,english
+aerts,10,not english
+affairs,22,english
+affect,35,english
+affected,42,english
+affecting,34,english
+affects,28,english
+afforestation,11,english
+africa,90,not english
+afrikaansalemannisch,7,not english
+after,68,english
+afterwards,7,english
+against,30,english
+age,80,english
+agency,54,english
+agenda,11,english
+agent,21,english
+agents,17,english
+ages,25,english
+agnolucci,10,not english
+ago,20,english
+agrawal,12,not english
+agree,19,english
+agreed,7,english
+agreeing,7,english
+agreement,264,english
+agreements,41,english
+agricultural,62,english
+agriculture,187,english
+agu,22,not english
+ahmed,12,not english
+ai,17,english
+aila,11,not english
+aimed,7,english
+aims,14,english
+air,215,english
+aisfurlangaeilgeg,7,not english
+aiuppa,21,not english
+akademie,10,not english
+akbari,12,not english
+ake,7,not english
+al,2023,not english
+albedo,134,english
+albrecht,21,not english
+alerted,7,english
+alessandro,10,not english
+alex,30,not english
+alexander,12,not english
+alexey,11,not english
+algal,20,english
+alien,15,english
+all,133,english
+allen,44,not english
+alleviation,10,english
+allow,15,english
+allows,21,english
+almost,38,english
+alois,10,not english
+alone,17,english
+alongside,10,english
+already,21,english
+also,244,english
+alt,6,not english
+altered,10,english
+alternative,22,english
+although,38,english
+altimeter,11,english
+altitudes,8,english
+alumina,10,english
+aluminum,19,not english
+always,17,english
+amann,10,not english
+amara,12,not english
+ambient,11,english
+ambition,12,english
+ambitions,12,english
+ambitious,14,english
+amendment,8,english
+america,81,not english
+american,189,not english
+amillennialism,17,not english
+among,7,not english
+amount,57,english
+amounts,14,english
+amphibian,38,english
+amplification,39,english
+amplify,17,english
+amplifying,7,english
+an,330,english
+analysis,74,english
+anca,12,not english
+and,5926,english
+anderegg,10,not english
+anders,10,not english
+andreas,20,not english
+andrei,10,not english
+andrew,30,not english
+andy,10,not english
+animals,45,english
+anisimov,12,not english
+anita,10,not english
+anna,20,english
+annex,13,english
+annexes,9,english
+announced,10,english
+annual,57,english
+annually,7,english
+annurev,22,not english
+anny,11,not english
+anode,20,english
+anodes,10,english
+anomaly,8,english
+another,36,english
+anoxic,42,not english
+antarctic,40,english
+antarctica,56,not english
+anthony,43,not english
+anthropocene,37,not english
+anthropoceneclimate,7,not english
+anthropogenic,170,english
+antichrist,19,not english
+antimatter,17,english
+anvil,25,english
+any,24,english
+aoki,12,not english
+ap,26,not english
+apocalypse,72,english
+apocalyptic,96,english
+apocalypticism,32,not english
+apostasy,19,english
+appeared,7,english
+appendix,22,english
+apply,5,english
+approach,14,english
+approaches,7,english
+approaching,9,english
+approximately,18,english
+approximation,10,english
+april,380,not english
+ar,976,not english
+arag,12,not english
+aragon,10,not english
+arblaster,12,not english
+archer,33,english
+archive,13,english
+archived,771,english
+archives,13,english
+arctic,314,english
+are,767,english
+area,16,english
+areas,57,english
+areti,11,not english
+argument,49,english
+arias,12,english
+armageddon,15,not english
+armed,19,english
+arms,11,english
+arndt,10,not english
+arnell,22,not english
+around,83,english
+arrhenius,55,not english
+artaxo,12,not english
+article,110,english
+articleabout,7,not english
+articles,131,english
+articlespages,7,not english
+articlesuse,7,not english
+articletalk,8,not english
+artificial,42,english
+arts,12,english
+arvesen,10,not english
+arxiv,22,not english
+as,908,english
+asia,59,not english
+asian,10,not english
+aspect,14,english
+aspects,33,english
+aspinall,10,not english
+aspirational,7,english
+assembly,10,english
+assert,9,english
+assess,7,english
+assessed,17,english
+assessing,24,english
+assessment,348,english
+assessments,11,english
+assets,19,english
+associated,36,english
+associations,13,english
+assumption,17,english
+assured,15,english
+asteroid,34,english
+astronomical,11,english
+asturianuava,7,not english
+at,298,english
+atlantic,52,not english
+atmos,11,not english
+atmosphere,279,english
+atmospheres,11,english
+atmospheric,133,english
+atomic,24,english
+atsumu,10,not english
+attempt,7,english
+attention,18,english
+attribute,7,english
+attributed,7,english
+attributing,13,english
+attribution,135,english
+audio,18,english
+auffhammer,12,not english
+august,219,english
+austin,10,not english
+australia,74,not english
+authority,29,english
+auto,9,english
+availability,19,english
+available,26,english
+average,99,english
+averaging,7,english
+avert,27,english
+aviation,17,english
+avoid,7,english
+avoidance,17,english
+avoided,7,english
+avoiding,14,english
+awareness,22,english
+axel,10,not english
+ayeb,10,not english
+ayesha,11,not english
+ayisyenkriy,7,not english
+ayyoob,11,not english
+az,10,not english
+b,598,english
+baarsch,10,not english
+babiker,12,not english
+babylon,23,not english
+back,21,english
+background,16,english
+bahasa,13,not english
+bailey,12,english
+balance,22,english
+balancing,15,english
+ball,20,english
+balsari,21,not english
+bamber,21,not english
+bams,34,not english
+bangalore,10,not english
+bangladesh,26,not english
+bank,39,english
+banking,15,english
+banned,7,english
+banos,12,not english
+barbosa,10,not english
+barboza,10,not english
+bardow,10,not english
+baringer,10,not english
+barioni,12,not english
+barlow,10,not english
+barnacles,7,english
+barnett,10,not english
+barrett,12,not english
+barrier,16,english
+barriers,7,english
+barros,20,not english
+basalt,19,english
+based,114,english
+baseline,7,english
+basement,13,english
+basic,7,english
+basis,46,english
+battery,8,english
+bauer,20,not english
+bayer,21,not english
+bbc,69,not english
+be,466,english
+bears,21,english
+beast,65,english
+beate,20,not english
+became,14,english
+because,55,english
+beccs,14,not english
+become,41,english
+becomes,7,english
+becoming,35,english
+bednar,32,not english
+beef,7,english
+been,239,english
+beer,12,english
+beetles,16,english
+before,14,english
+began,17,english
+begin,7,english
+begun,9,english
+behaving,7,english
+behind,7,english
+beine,10,not english
+being,28,english
+belief,7,english
+believed,7,english
+bell,11,english
+bellouin,12,not english
+below,35,english
+belts,15,english
+ben,20,english
+benefit,14,english
+benefits,72,english
+benito,22,not english
+benjamin,31,english
+benton,12,not english
+berg,10,english
+berntsen,10,not english
+berrill,21,not english
+berry,11,english
+bertoldi,12,not english
+bertrand,10,not english
+better,32,english
+between,185,english
+beyond,28,english
+bibcode,831,not english
+bielen,10,not english
+big,43,english
+biggest,7,english
+billion,33,english
+bin,10,english
+bindi,12,not english
+binding,21,english
+bindoff,24,not english
+bio,7,not english
+biodiesel,17,not english
+biodiversity,114,english
+bioenergy,25,not english
+biofuel,7,not english
+biofuels,17,not english
+biogeochemical,15,not english
+biological,50,english
+biologicalextinction,10,not english
+biology,11,english
+biome,15,english
+biomes,10,not english
+biomolecular,11,not english
+biophysical,10,english
+biosci,11,not english
+bioscience,11,not english
+biosphere,36,english
+biotechnology,19,english
+bioterrorism,21,not english
+birkmann,12,not english
+birth,15,english
+birthday,13,english
+bix,11,not english
+bj,54,not english
+black,95,english
+blackstock,10,not english
+blanco,12,not english
+bleached,8,english
+bleaching,38,english
+blender,10,english
+blind,14,english
+blocked,7,english
+blog,13,english
+blogs,19,english
+blood,15,english
+blooms,20,english
+bloomsbury,10,not english
+blue,59,english
+bnf,9,not english
+board,10,english
+boarischbosanskibrezhoneg,7,not english
+bodirsky,10,not english
+body,7,english
+bokm,10,not english
+bombardment,15,english
+bony,12,english
+bonzanigo,10,not english
+book,19,english
+books,31,english
+border,6,english
+born,11,english
+bosch,10,not english
+boston,10,not english
+both,52,english
+boulianne,21,not english
+boundaries,15,english
+bourgeaud,10,not english
+bouwer,11,not english
+bowls,23,english
+box,10,english
+boykoff,21,not english
+braconnot,13,not english
+bradley,12,not english
+brasileira,10,not english
+brazil,22,english
+breaking,10,english
+brian,10,not english
+bridle,10,english
+brief,217,english
+brightening,31,english
+bring,7,english
+brix,10,not english
+broad,28,english
+broader,7,english
+brook,10,english
+brown,21,english
+bruce,10,not english
+brulle,10,not english
+brussels,10,not english
+buddhist,15,not english
+budget,119,english
+budgets,22,english
+buendia,10,not english
+buhaug,10,not english
+bui,32,not english
+build,7,english
+building,14,english
+buildings,41,english
+bulletin,71,english
+burden,18,english
+burke,63,english
+burning,48,english
+burst,15,english
+burton,12,english
+buses,7,english
+bushfires,29,not english
+but,200,english
+butler,12,english
+buttermore,10,not english
+buwen,10,not english
+by,1122,english
+byrnes,21,not english
+c,1121,english
+calcium,48,english
+calculated,7,english
+calculations,7,english
+calder,10,not english
+caldwell,10,not english
+california,11,not english
+call,25,english
+callaghan,10,not english
+called,16,english
+callendar,52,not english
+callery,12,not english
+calls,20,english
+calma,12,not english
+calvo,10,not english
+cambridge,152,not english
+came,7,english
+campaigners,13,english
+campbell,12,not english
+campos,24,not english
+can,387,english
+canada,17,not english
+canadian,10,not english
+cancer,10,english
+cannabis,17,english
+cannot,21,english
+canziani,10,not english
+capabilities,14,english
+capacity,67,english
+capita,8,english
+capture,50,english
+captured,7,english
+captures,7,english
+car,8,english
+carbon,1321,english
+carbonate,24,english
+cardiovascular,10,english
+care,27,english
+caribbean,23,not english
+carlowicz,12,not english
+carman,10,english
+carmichael,21,not english
+caroline,10,not english
+carrington,36,not english
+cars,7,english
+cartography,12,english
+casassa,12,not english
+cascade,19,english
+case,7,english
+cases,10,english
+cassotta,12,not english
+cataclysm,15,english
+cataclysmic,19,english
+catal,10,not english
+catastrophe,28,english
+catastrophic,35,english
+categories,27,english
+category,47,english
+cattaneo,21,not english
+cause,65,english
+caused,155,english
+causes,81,english
+causesoverview,13,not english
+causing,54,english
+cazenave,11,not english
+ccs,18,not english
+cdr,30,not english
+cebuano,10,not english
+celsius,7,not english
+cement,34,english
+cent,10,english
+centennial,11,english
+center,57,not english
+central,9,english
+centralautologin,6,not english
+centre,46,not english
+centuries,28,english
+century,167,english
+ceppi,21,not english
+certain,17,english
+cfcs,8,not english
+ch,759,not english
+chadee,12,not english
+challenge,38,english
+challenged,7,english
+challenges,18,english
+challenging,10,english
+challinor,12,not english
+chamber,8,english
+chance,31,english
+change,3615,english
+changegeneral,13,not english
+changeglobal,7,not english
+changehistory,7,not english
+changeoverview,9,not english
+changes,355,english
+changesupload,14,not english
+changing,157,english
+chapter,574,english
+chapters,18,english
+charles,27,not english
+cheap,26,english
+cheapest,7,english
+chembioeng,11,not english
+chemer,12,not english
+chemical,57,english
+chemistries,7,not english
+chemistry,29,english
+chen,21,not english
+cheng,11,not english
+cherry,10,english
+cheung,12,not english
+chief,7,english
+child,11,english
+childhood,7,english
+children,50,english
+china,40,english
+chinese,10,not english
+choices,22,english
+cholera,10,english
+chose,7,english
+chris,10,not english
+christian,27,english
+christiane,10,not english
+christopher,20,not english
+chunl,10,not english
+church,11,english
+ci,10,not english
+cid,514,not english
+ciencias,10,not english
+circulation,90,english
+circumstances,13,english
+cisneros,12,not english
+cities,30,english
+citizens,7,english
+ciucci,12,not english
+civil,30,english
+ckmann,10,not english
+claire,10,not english
+clark,31,not english
+class,11,english
+classicarticles,13,not english
+classified,7,english
+classifying,11,english
+clch,34,not english
+clean,124,english
+cleaner,38,english
+cleaning,17,english
+clearly,7,english
+clercq,11,not english
+cli,25,not english
+client,11,english
+climate,5597,english
+climates,26,english
+climatic,52,english
+clips,9,english
+clock,15,english
+clockwise,10,english
+closer,7,english
+cloud,62,english
+cloudiness,10,english
+clouds,99,english
+cm,18,not english
+cmip,10,not english
+co,620,not english
+coal,100,english
+coalition,7,english
+coastal,67,english
+coastline,8,english
+coasts,13,english
+cobalt,17,english
+cochrane,12,not english
+cocoa,17,english
+cohen,21,not english
+coherent,11,english
+coke,19,english
+cold,18,english
+colder,17,english
+colford,12,not english
+collapse,110,english
+collapsed,27,english
+collapsology,15,not english
+collection,12,english
+collectively,14,english
+collins,12,english
+collision,30,english
+colman,12,not english
+colony,19,english
+colorado,10,not english
+com,24,not english
+combat,7,english
+combination,21,english
+combined,24,english
+come,67,english
+comes,33,english
+coming,15,english
+commercial,7,english
+commission,93,english
+commissioner,10,english
+commit,7,english
+commitment,11,english
+commitments,20,english
+committed,7,english
+committee,10,english
+common,60,english
+commons,27,english
+commonsnews,8,not english
+commonswikiquote,7,not english
+communicable,10,english
+communicating,31,english
+communication,63,english
+communications,33,english
+communities,47,english
+community,25,english
+compact,7,english
+companies,21,english
+comparable,7,english
+compare,7,english
+compared,41,english
+comparison,11,english
+compatible,13,english
+compensate,10,english
+compensation,7,english
+competition,7,english
+competitive,11,english
+complete,7,english
+complex,7,english
+composition,10,english
+compound,11,english
+compounds,7,english
+compromising,10,english
+computer,14,english
+comte,10,not english
+concei,10,not english
+concentration,24,english
+concentrations,83,english
+concern,46,english
+concerned,55,english
+concerns,40,english
+concluded,31,english
+conclusion,10,english
+concrete,17,english
+condensation,8,english
+conditioning,15,english
+conditions,17,english
+conduction,11,english
+conference,59,english
+conferences,32,english
+confidence,120,english
+conflict,26,english
+conflicts,12,english
+confounded,7,english
+confusing,7,english
+congressional,7,english
+coninck,12,not english
+connection,18,english
+connections,33,english
+connectivity,7,english
+connolly,11,not english
+connors,10,not english
+consensus,216,english
+consequence,14,english
+consequences,18,english
+conservation,10,english
+conservative,8,english
+considerable,7,english
+consideration,21,english
+consistent,37,english
+consists,7,english
+consortium,34,english
+conspiracy,23,english
+constable,12,english
+constraints,10,english
+construction,7,english
+constructions,10,english
+consumed,10,english
+consumption,49,english
+cont,15,not english
+contact,9,english
+contain,7,english
+containing,36,english
+contains,14,english
+contamination,19,english
+contemporary,21,english
+content,12,english
+contents,13,english
+context,38,english
+continents,18,english
+continuation,10,english
+continue,61,english
+continued,33,english
+continues,14,english
+continuously,7,english
+contrarian,19,english
+contribute,34,english
+contributed,31,english
+contributing,7,english
+contribution,144,english
+contributions,51,english
+contributors,7,english
+control,35,english
+controls,11,english
+controversy,16,english
+convention,149,english
+conventional,7,english
+conventions,10,english
+conversion,14,english
+converted,17,english
+conway,34,not english
+cook,42,english
+cooke,10,not english
+cookie,6,english
+cooks,13,english
+cooling,117,english
+coordinated,7,english
+cop,12,english
+cope,7,english
+copenhagen,102,not english
+coppola,12,not english
+coral,87,english
+corals,23,english
+core,10,english
+cores,26,english
+coronal,15,english
+correlates,9,english
+corresponds,7,english
+cost,12,english
+costello,21,not english
+costs,56,english
+cosust,11,not english
+could,115,english
+coumou,10,not english
+council,118,english
+countdown,11,english
+counterbalance,11,english
+countered,7,english
+countermovement,10,not english
+countries,262,english
+country,106,english
+couple,7,english
+coupled,19,english
+cover,78,english
+coverage,52,english
+covered,10,english
+covers,7,english
+covid,18,not english
+cp,32,not english
+crabb,12,not english
+craig,12,not english
+cramer,12,not english
+create,10,english
+created,15,english
+creates,7,english
+creating,19,english
+creative,6,english
+credit,23,english
+creep,23,english
+crime,15,english
+crisis,42,english
+cristina,10,not english
+critical,12,english
+criticism,7,english
+crop,16,english
+cropland,7,english
+crops,25,english
+cross,12,english
+croz,10,not english
+crucifix,23,english
+crunch,15,english
+cryosphere,49,not english
+cs,9,english
+ct,10,not english
+cubasch,12,not english
+cui,11,not english
+cultivation,44,english
+culture,58,english
+cumming,10,english
+cumulative,10,english
+curbing,20,english
+curr,11,not english
+current,110,english
+currently,10,english
+curtis,31,not english
+curve,8,english
+cut,7,english
+cyberattack,15,not english
+cybergeddon,17,not english
+cyberterrorism,17,not english
+cyberwarfare,17,not english
+cycle,115,english
+cycles,33,english
+cycling,18,english
+cyclone,28,english
+cyclones,25,english
+d,647,english
+daisy,12,english
+dajjal,19,not english
+damage,25,english
+damaged,15,english
+damages,17,english
+damian,36,not english
+damon,10,not english
+dams,8,english
+dan,10,not english
+dana,12,not english
+danger,10,english
+dangerous,36,english
+dangers,7,english
+daniel,29,not english
+daphne,10,english
+dark,23,english
+darkens,10,english
+data,211,english
+datasets,27,not english
+dated,35,english
+dates,24,english
+dave,10,not english
+david,92,not english
+davidson,31,not english
+davis,21,not english
+dawn,12,english
+day,58,english
+days,24,english
+de,78,english
+dead,40,english
+deal,45,english
+dean,21,english
+deangelis,11,not english
+death,26,english
+deaths,45,english
+debate,7,english
+debt,23,english
+decadal,20,not english
+decade,50,english
+decades,75,english
+decarbonised,7,not english
+decarbonization,34,not english
+decay,30,english
+december,348,not english
+decision,11,english
+decisions,7,english
+declaration,23,english
+declarations,13,english
+declare,7,english
+declared,20,english
+declares,26,english
+decline,123,english
+declining,17,english
+decomposes,12,english
+decomposition,7,english
+deconto,21,not english
+decoupling,15,english
+decrease,7,english
+decreased,7,english
+decreases,10,english
+decreasing,15,english
+deep,37,english
+defaunation,34,not english
+defense,35,not english
+defined,22,english
+defining,7,english
+definitions,12,english
+deforestation,153,english
+defries,22,not english
+deglacial,11,not english
+degradation,128,english
+degree,7,english
+degrees,7,english
+dei,10,not english
+delay,7,english
+delmotte,52,not english
+delworth,21,not english
+demand,64,english
+demonstrated,7,english
+demonstrates,7,english
+demonstrations,14,english
+den,10,english
+dengue,25,english
+denial,154,english
+denier,11,english
+deny,14,english
+denying,7,english
+dependent,44,english
+depending,7,english
+depends,25,english
+depleting,14,english
+depletion,98,english
+deployment,10,english
+deposited,10,english
+deposits,14,english
+depth,23,english
+der,30,not english
+derksen,12,not english
+des,10,not english
+describe,10,english
+described,17,english
+describes,7,english
+description,11,english
+descriptionshort,7,not english
+desertification,72,english
+deserts,32,english
+design,7,english
+designed,14,english
+designing,7,english
+desolation,19,english
+despite,7,english
+dessai,21,not english
+destruction,65,english
+detailed,7,english
+detected,18,english
+detection,37,english
+determine,14,english
+determined,25,english
+determining,10,english
+detlef,10,not english
+deutsch,24,not english
+deutsche,44,not english
+developed,68,english
+developers,6,english
+developing,62,english
+development,195,english
+deviation,10,english
+device,17,english
+devices,15,english
+dhul,38,not english
+diana,10,not english
+diarrhea,8,not english
+dictionary,13,english
+did,7,english
+die,12,english
+dieback,23,english
+diets,7,english
+diffenbaugh,42,not english
+difference,31,english
+differences,7,english
+different,92,english
+difficult,14,english
+diffuse,7,english
+digital,39,english
+dim,10,english
+dimento,10,not english
+dimming,49,english
+ding,12,english
+dingenen,10,not english
+dioxide,198,english
+direct,14,english
+directly,39,english
+dirnaichner,10,not english
+disadvantaged,7,english
+disagree,11,english
+disagrees,8,english
+disambiguation,16,english
+disappeared,7,english
+disappearing,15,english
+disappointing,20,english
+disaster,40,english
+disastrous,7,english
+disclaimers,6,english
+discourse,19,english
+discovery,127,english
+discussion,7,english
+disease,18,english
+diseases,41,english
+disentangling,11,english
+dismiss,7,english
+disobedience,8,english
+disorder,19,english
+disorderly,13,english
+dispensationalism,19,not english
+displace,15,english
+displaced,7,english
+dispossession,10,english
+disrupt,16,english
+disrupting,7,english
+disrupts,7,english
+dissolved,7,english
+dissolves,7,english
+distance,7,english
+distinct,10,english
+distributed,14,english
+distributes,7,english
+diversification,7,english
+divestment,31,english
+dmy,9,not english
+do,102,english
+document,11,english
+documentary,21,english
+documents,24,english
+does,45,english
+doherty,10,not english
+doi,1324,not english
+dokken,30,not english
+dominant,17,english
+dominate,7,english
+dominated,17,english
+dominates,10,english
+dominic,10,not english
+donald,10,not english
+done,7,english
+doney,21,not english
+dong,21,english
+doomsday,113,english
+doran,10,not english
+dots,9,english
+doubled,9,english
+doubling,7,english
+doubt,25,english
+doughman,10,not english
+down,30,english
+download,10,english
+downward,12,english
+downwards,7,english
+doyle,12,not english
+dramatic,11,english
+drawing,9,english
+drawn,17,english
+dresser,21,english
+drew,10,english
+drier,7,english
+driest,9,english
+drive,21,english
+driven,47,english
+driver,7,english
+drivers,82,english
+drop,7,english
+droplets,14,english
+dropped,12,english
+drought,74,english
+droughts,41,english
+drove,11,english
+dry,28,english
+dryzek,10,not english
+du,10,not english
+dube,12,not english
+ducoudr,12,not english
+due,153,english
+duffield,11,not english
+dufresne,12,not english
+dunai,11,not english
+dunlap,63,not english
+dunne,12,not english
+durand,12,not english
+duration,11,english
+during,25,english
+dutch,33,english
+duty,10,english
+e,375,english
+eaaw,11,not english
+each,23,english
+earlier,7,english
+early,50,english
+earth,704,english
+easier,21,english
+easily,7,english
+east,47,english
+easterling,20,not english
+ebi,21,not english
+echo,8,english
+ecocide,34,english
+ecological,51,english
+ecologicalclimate,10,not english
+ecology,56,english
+economic,142,english
+economically,7,english
+economics,111,english
+economy,68,english
+ecosystem,82,english
+ecosystems,194,english
+ecowatch,12,not english
+ed,117,not english
+edenhofer,20,not english
+edit,12,english
+editcommunity,7,not english
+edited,5,english
+edition,11,english
+editor,7,english
+editorial,7,english
+edits,8,english
+edmonds,20,not english
+eds,192,not english
+educated,7,english
+education,30,english
+edvardsson,10,not english
+edward,10,not english
+edwards,10,not english
+ee,12,not english
+effect,258,english
+effective,43,english
+effects,506,english
+efficiency,106,english
+efficient,15,english
+efficiently,7,english
+effort,10,english
+efforts,44,english
+ejection,15,english
+el,8,not english
+elderly,7,english
+electric,23,english
+electricity,68,english
+electrification,22,english
+electromagnetic,15,english
+elements,11,english
+elevated,14,english
+elicitation,7,english
+eliminated,7,english
+elimination,10,english
+eline,12,not english
+ellers,10,not english
+elmar,20,not english
+elsevier,10,not english
+elvira,10,not english
+emait,10,not english
+emanuel,11,not english
+emergency,149,english
+emergent,13,english
+emily,20,not english
+emission,35,english
+emissions,929,english
+emit,17,english
+emitted,23,english
+emitting,7,english
+emma,20,not english
+emotion,11,english
+emp,14,not english
+empirical,11,english
+en,13,english
+encyclopedia,5,english
+end,51,english
+endangerment,13,english
+ending,7,english
+energy,927,english
+enforce,7,english
+engineering,100,english
+england,31,not english
+english,10,english
+enhance,17,english
+enhanced,14,english
+enhancing,14,english
+enoch,17,not english
+enough,26,english
+ensure,7,english
+ensuring,11,english
+enteric,11,english
+entire,27,english
+entry,13,english
+environ,11,english
+environment,330,english
+environmental,484,english
+environmentally,13,english
+environmentgeneral,9,not english
+environmenthidden,5,not english
+environments,7,english
+eo,11,not english
+eocene,8,not english
+eos,23,not english
+eostr,11,not english
+epa,112,not english
+episodes,7,english
+equivalent,25,english
+era,82,english
+eradicate,12,english
+eradicating,7,english
+eradication,13,english
+erb,10,not english
+eric,30,not english
+erik,23,not english
+erika,12,not english
+erl,101,not english
+erosion,56,english
+eruption,7,english
+eruptions,25,english
+es,40,english
+escape,20,english
+eschatological,12,english
+esdras,19,not english
+espa,10,not english
+essays,13,english
+essd,48,not english
+essential,13,english
+essentially,10,english
+established,7,english
+estimate,10,english
+estimated,117,english
+estimates,58,english
+estimating,22,english
+et,1993,not english
+etc,7,not english
+ethical,7,english
+ethics,23,english
+ethnicities,7,not english
+etymology,15,english
+eu,39,not english
+eunice,32,not english
+euobserver,35,not english
+europe,55,not english
+european,187,not english
+eutrophication,8,english
+ev,12,not english
+evaluation,13,english
+evaporation,16,english
+evelyn,12,not english
+even,58,english
+event,145,english
+events,113,english
+eventsrandom,7,not english
+eventually,10,english
+ever,7,english
+every,21,english
+everybody,7,english
+evidence,90,english
+evolution,26,english
+evolutionary,15,english
+exacerbate,7,english
+exacerbated,7,english
+exact,7,english
+examining,7,english
+example,29,english
+examples,7,english
+exceed,33,english
+excluding,7,english
+executive,22,english
+exist,34,english
+existential,32,english
+existing,7,english
+exit,11,english
+exosphere,15,english
+expand,7,english
+expanded,29,english
+expanding,36,english
+expansion,75,english
+expected,71,english
+expensive,33,english
+experience,11,english
+experiences,7,english
+experiments,15,english
+expert,18,english
+expertise,9,english
+explain,24,english
+explainer,25,english
+explanatory,22,english
+explore,13,english
+exploring,11,english
+explosive,8,english
+export,7,english
+exporters,7,english
+exposure,32,english
+express,7,english
+extended,31,english
+extent,10,english
+external,66,english
+extinct,8,english
+extinction,166,english
+extra,27,english
+extracting,7,english
+extraction,20,english
+extreme,147,english
+extremely,14,english
+extremes,34,english
+f,155,english
+fabian,10,not english
+fabry,10,not english
+face,14,english
+facebook,10,not english
+facility,12,english
+facing,19,english
+factor,11,english
+factors,21,english
+facts,13,english
+fahey,20,not english
+failed,7,english
+fails,7,english
+failure,25,english
+failures,8,english
+fairness,7,english
+fall,7,english
+falls,7,english
+false,15,english
+falsely,9,english
+famine,17,english
+fanrong,10,not english
+fao,21,not english
+faq,30,not english
+far,63,english
+farahani,10,not english
+farming,15,english
+fast,34,english
+faster,34,english
+fasullo,31,not english
+fate,17,english
+fauna,26,english
+favourable,7,not english
+fay,10,english
+faye,10,not english
+fccc,21,not english
+feasibility,17,english
+feature,13,english
+february,365,not english
+fedorov,11,not english
+feed,12,english
+feedback,107,english
+feedbacks,149,not english
+feely,10,not english
+felt,7,english
+feng,10,not english
+fermentation,11,english
+fernando,11,not english
+fertiliser,16,not english
+fertilizer,31,not english
+fertilizing,7,not english
+fever,8,english
+few,21,english
+fewer,7,english
+fi,25,not english
+fiction,55,english
+fictional,26,english
+field,35,english
+fifta,12,not english
+fifteenth,11,english
+fifth,82,english
+fig,50,english
+fight,13,english
+figure,20,english
+figures,7,english
+fiji,10,not english
+file,38,english
+filespecial,7,not english
+filling,9,english
+films,56,english
+final,12,english
+finance,50,english
+financial,23,english
+financially,7,english
+financing,12,english
+findings,13,english
+fingerprint,7,english
+fingerprints,14,english
+fire,44,english
+fires,7,english
+firm,12,english
+firms,13,english
+first,65,english
+fischer,21,not english
+fish,7,english
+fished,7,english
+fisher,10,english
+fisheries,23,english
+fishing,34,english
+fit,8,english
+five,7,english
+fixation,8,english
+fixed,25,english
+flanner,10,not english
+flare,15,english
+flavell,21,not english
+fleming,55,not english
+flexibility,7,english
+flight,12,english
+flip,7,english
+flood,26,english
+flooding,87,english
+flora,26,english
+florent,10,not english
+florian,10,not english
+flowering,8,english
+flows,7,english
+fluorinated,8,not english
+fluxes,12,english
+flying,7,english
+flynn,10,not english
+focus,85,english
+followed,14,english
+following,10,english
+fomented,7,english
+food,223,english
+foote,32,not english
+for,1495,english
+forced,18,english
+forcers,10,not english
+forces,19,english
+forcing,108,english
+forcings,32,not english
+forecast,34,english
+forecasts,7,english
+forest,185,english
+forested,7,english
+forestry,58,english
+forests,66,english
+form,54,english
+formal,7,english
+formation,10,english
+formed,10,english
+former,14,english
+forms,7,english
+forster,10,not english
+forward,11,english
+fossil,208,english
+foster,10,english
+found,21,english
+foundation,18,english
+founding,7,english
+four,34,english
+fourier,8,not english
+fourth,85,english
+fr,10,not english
+fractional,10,english
+framed,7,english
+framework,149,english
+framing,30,english
+franca,10,not english
+france,46,not english
+frances,12,not english
+franzke,21,not english
+fred,11,not english
+fredriksen,10,not english
+free,20,english
+freeze,13,english
+freight,7,english
+frenzel,10,not english
+frequency,21,english
+frequent,12,english
+frequently,7,english
+freshwater,42,english
+frey,10,not english
+fridays,7,not english
+friedlingstein,32,not english
+from,1804,english
+front,10,english
+frontier,11,english
+ft,7,not english
+fuel,161,english
+fuels,76,english
+full,7,english
+fully,7,english
+function,7,english
+fund,27,english
+funded,7,english
+funding,14,english
+furnace,12,english
+furtado,10,not english
+further,119,english
+furthermore,7,english
+future,288,english
+futurism,19,english
+fyfe,21,not english
+g,377,english
+gabbatiss,23,not english
+gain,7,english
+gamma,15,english
+gap,43,english
+gaps,7,english
+garnett,10,not english
+gary,10,not english
+gas,443,english
+gases,306,english
+gave,11,english
+gavin,20,not english
+gc,12,not english
+gcb,11,not english
+gcbio,11,not english
+gea,10,not english
+geddes,10,not english
+geert,21,not english
+gender,32,english
+general,29,english
+generally,31,english
+generate,14,english
+generates,9,english
+generating,12,english
+generation,52,english
+generations,10,english
+genetic,60,english
+geneva,60,english
+genre,7,english
+geochemistry,11,english
+geoffrey,10,not english
+geographic,57,english
+geography,22,english
+geologic,15,english
+geological,48,english
+geology,42,english
+geomagnetic,15,english
+geophysical,142,english
+geophysics,48,english
+geopolitics,8,english
+george,10,not english
+georl,89,not english
+geoscience,88,not english
+geosystems,11,not english
+geothermal,8,english
+gerald,10,not english
+gerlagh,12,not english
+german,12,english
+germany,26,not english
+get,7,english
+gets,14,english
+getting,13,english
+gfdl,11,not english
+ggg,11,not english
+ghg,50,not english
+gibbs,12,not english
+gigatonnes,14,not english
+gilbert,8,english
+gilek,10,not english
+gilgen,10,not english
+gillett,22,not english
+gils,10,not english
+give,7,english
+given,14,english
+gives,7,english
+giving,7,english
+gl,94,not english
+glacial,16,english
+glacier,14,english
+glaciers,47,english
+glavovic,12,not english
+gleick,34,not english
+glenn,10,not english
+global,1918,english
+globally,69,english
+globe,22,english
+gloenvcha,12,not english
+glossary,62,english
+gmsl,10,not english
+gnd,9,not english
+go,25,english
+goal,43,english
+goals,156,english
+goats,19,english
+goddard,12,not english
+gog,34,not english
+golden,10,english
+goo,15,english
+good,22,english
+goods,10,english
+gore,8,english
+gov,13,not english
+governance,11,english
+government,7,english
+governments,14,english
+goyal,21,not english
+gradual,7,english
+gradually,7,english
+graeme,10,not english
+grand,11,english
+grandchildren,11,english
+grantham,20,not english
+graphing,11,english
+grassland,7,english
+grassroots,13,english
+gravity,15,english
+gray,15,not english
+great,73,english
+greater,82,english
+greatest,31,english
+green,85,english
+greenhouse,806,english
+greening,7,english
+greenland,35,not english
+gregg,10,not english
+gregory,42,not english
+greta,8,not english
+grid,7,english
+groundwater,10,english
+group,87,english
+groups,31,english
+grow,7,english
+growing,14,english
+grown,7,english
+growth,74,english
+grubb,21,not english
+gtco,20,not english
+guardian,213,english
+guide,9,english
+guidelines,14,english
+guldberg,12,not english
+gulev,11,not english
+gulf,21,english
+gunnar,20,not english
+gunningham,21,not english
+gupta,10,not english
+gurzu,12,not english
+guy,19,english
+gwiyannenkurd,7,not english
+h,314,english
+habitat,50,english
+habitats,10,english
+had,34,english
+hadley,8,not english
+hafiz,10,english
+hagmann,21,not english
+hague,21,not english
+haines,21,not english
+half,23,english
+halim,12,not english
+hall,20,english
+hallegatte,21,not english
+halliday,10,not english
+halt,27,english
+halvard,10,not english
+halving,14,english
+hamlington,10,not english
+hand,24,english
+handbook,11,english
+handful,11,english
+hannah,36,not english
+hans,18,not english
+hansen,76,not english
+hansson,10,not english
+happy,13,english
+harder,7,english
+harley,11,not english
+harmful,20,english
+harming,7,english
+harms,15,english
+harris,10,not english
+hartmann,12,not english
+hartmut,10,not english
+harvard,12,not english
+harvey,31,not english
+has,461,english
+hassol,10,not english
+haudio,9,not english
+hausa,10,not english
+hausfather,36,not english
+have,588,english
+haven,10,english
+having,15,english
+hawkins,21,not english
+hayhoe,30,not english
+haywood,21,not english
+hazard,15,english
+hazardous,17,english
+hazards,17,english
+hdl,66,not english
+he,28,english
+heal,10,english
+health,358,english
+hearty,10,english
+heat,403,english
+heated,14,english
+heating,58,english
+heats,7,english
+heatwave,13,english
+heatwaves,25,english
+heaven,23,english
+heavy,22,english
+hedrick,10,not english
+hege,10,not english
+hegerl,12,not english
+height,6,english
+held,19,english
+help,26,english
+helped,7,english
+helplearn,7,not english
+helps,7,english
+hemisphere,21,english
+henning,10,not english
+here,10,english
+hererelated,7,not english
+herman,10,not english
+hfcs,12,not english
+hiatus,23,english
+hibbard,20,not english
+hidden,14,english
+higgins,11,not english
+high,260,english
+higher,91,english
+highlighted,7,english
+highlights,11,english
+highly,14,english
+hilaire,21,not english
+hindif,7,not english
+hindu,15,not english
+hinkel,12,not english
+his,14,english
+historic,12,english
+historical,64,english
+historicism,19,english
+history,139,english
+hit,13,english
+hlich,10,not english
+ho,21,english
+hodder,21,not english
+hodges,11,not english
+hoegh,12,not english
+hold,22,english
+holding,21,english
+hole,32,english
+holger,10,not english
+holland,10,not english
+hollowed,12,english
+holly,24,english
+holocaust,15,english
+holocene,34,not english
+homes,7,english
+horsemen,23,english
+hot,19,english
+houlton,11,not english
+hour,28,english
+house,23,english
+how,189,english
+however,66,english
+hrvatskiidoilokanobahasa,7,not english
+hsieh,10,not english
+https,7,not english
+huddleston,23,not english
+huggel,12,not english
+hughes,10,not english
+human,436,english
+humanity,29,english
+humans,112,english
+humid,11,english
+humidity,15,english
+humpen,10,not english
+hundreds,17,english
+hung,13,english
+hunger,8,english
+hunting,10,english
+hurricanes,20,english
+hydro,8,english
+hydrofluorocarbons,8,not english
+hydropower,39,english
+hypercane,19,not english
+hypernova,15,not english
+hypothesis,69,english
+hypothetical,15,english
+hypoxia,11,english
+i,97,english
+icct,11,not english
+ice,362,english
+idealism,19,english
+ideas,7,english
+identical,10,english
+identified,10,english
+identifiersarticles,35,not english
+idhliggalego,7,not english
+iea,65,not english
+if,65,english
+ii,53,not english
+iii,56,not english
+ilkiw,21,not english
+illustrative,23,english
+im,19,not english
+image,9,english
+imagery,15,english
+imagesarticles,7,not english
+imbalance,26,english
+imeson,12,not english
+imf,10,not english
+img,6,not english
+imminent,8,english
+impact,239,english
+impacts,498,english
+imperative,11,english
+implemented,7,english
+implementing,13,english
+implications,45,english
+implied,10,english
+important,7,english
+importers,7,english
+imprint,11,english
+improved,27,english
+improvements,7,english
+improves,7,english
+improving,7,english
+impurities,12,english
+in,3009,english
+ina,13,not english
+inadvertent,8,english
+inasloven,7,not english
+inc,6,not english
+incentives,7,english
+include,87,english
+included,21,english
+includes,17,english
+including,47,english
+inclusive,10,english
+income,7,english
+incomes,14,english
+incoming,23,english
+inconsistent,12,english
+inconvenient,9,english
+increase,173,english
+increased,258,english
+increases,106,english
+increasing,112,english
+increasingly,14,english
+indefinitely,18,english
+independent,35,english
+independently,20,english
+index,65,english
+india,26,not english
+indian,38,not english
+indication,17,english
+indicator,7,english
+indicators,19,english
+indigenous,23,english
+indirect,28,english
+individual,60,english
+indonesiainterlingua,7,not english
+induced,33,english
+industrial,150,english
+industrialisation,15,not english
+industries,27,english
+industry,151,english
+inequalities,27,english
+inequality,32,english
+inertia,8,english
+infectious,31,english
+influence,39,english
+influenced,7,english
+influences,7,english
+information,79,english
+informationcite,7,not english
+infrared,24,english
+infrastructure,22,english
+inhibit,7,english
+initial,26,english
+initially,7,english
+initiate,7,english
+initiating,7,english
+initiative,53,english
+injury,7,english
+input,7,english
+inputs,11,english
+insect,38,english
+insights,21,english
+inspired,7,english
+installed,7,english
+instance,42,english
+instead,28,english
+institute,305,english
+institutions,21,english
+instrumental,25,english
+insulator,7,english
+insurance,42,english
+intalkcontributionscreate,7,not english
+integral,7,english
+integrated,28,english
+intelligence,47,english
+intense,8,english
+intensification,31,english
+intensified,10,english
+intensity,14,english
+intensive,29,english
+interact,7,english
+interactions,25,english
+interchangeably,27,english
+interdisciplinary,19,english
+interface,11,english
+interference,7,english
+interglacial,8,english
+intergovernmental,173,english
+interior,7,english
+intermediate,8,english
+intermittency,15,english
+internal,26,english
+international,175,english
+internet,11,english
+interplanetary,19,english
+interpretations,21,english
+interpretive,13,english
+interquartile,20,not english
+interval,8,english
+intervention,7,english
+into,90,english
+introduction,24,english
+invasion,15,english
+invasive,23,english
+inventory,20,english
+investment,21,english
+investments,14,english
+involve,7,english
+involves,7,english
+iom,21,not english
+ions,10,english
+ipcc,2218,not english
+irene,12,not english
+iris,25,english
+iron,12,english
+irradiance,8,english
+irregular,13,english
+irreversibility,13,english
+irreversible,21,english
+irrigation,17,english
+is,1226,english
+isbn,387,not english
+islamic,17,not english
+island,26,english
+islands,37,english
+israfil,19,not english
+issn,694,not english
+issue,7,english
+issues,85,english
+issueshuman,7,not english
+issuesphysical,13,not english
+it,314,english
+italy,35,not english
+item,10,english
+ito,10,not english
+its,172,english
+itself,7,english
+iv,20,not english
+j,820,english
+jacintha,10,not english
+jack,10,english
+jackson,12,not english
+jacob,12,not english
+jae,30,not english
+james,120,not english
+jamie,10,not english
+jan,31,not english
+january,493,not english
+japan,33,english
+jason,20,not english
+jats,11,not english
+jawa,10,not english
+jclepro,24,not english
+jcli,66,not english
+jd,24,not english
+jeffrey,10,not english
+jenkins,11,not english
+jennifer,22,not english
+jerusalem,19,not english
+jesse,11,not english
+jet,11,english
+jewish,17,not english
+jgrd,22,not english
+jhg,11,not english
+ji,10,not english
+jia,12,not english
+jiang,22,not english
+jianghao,10,not english
+jim,22,not english
+jinho,10,not english
+jinlun,10,not english
+joan,10,not english
+joana,10,not english
+joanne,11,not english
+jobs,14,english
+joel,10,not english
+joeri,30,not english
+johannes,10,english
+john,141,english
+johnson,21,not english
+joint,21,english
+jom,11,not english
+jonathan,42,not english
+jones,32,not english
+joo,21,not english
+jos,10,not english
+joseph,18,not english
+josh,23,english
+joshua,21,not english
+joule,25,english
+journal,177,english
+jpl,12,not english
+jstor,11,not english
+juan,10,not english
+jucker,10,not english
+judah,10,not english
+judgement,15,not english
+judgment,11,not english
+judy,11,not english
+july,258,not english
+jump,10,english
+june,397,not english
+jurisdictions,8,english
+just,38,english
+justice,50,english
+justin,12,not english
+justine,12,not english
+k,267,english
+ka,30,english
+kabir,21,not english
+kaczan,21,not english
+kaicun,10,not english
+kairo,12,not english
+kali,17,english
+kalki,17,not english
+kampen,10,not english
+kapampangan,10,not english
+karin,10,not english
+karl,10,not english
+karlsson,20,not english
+karoly,12,not english
+katavouta,21,not english
+kate,11,not english
+katechon,21,not english
+katey,10,not english
+katharine,10,not english
+katherine,10,not english
+kato,11,not english
+keeling,35,english
+keep,14,english
+keeping,7,english
+keith,11,not english
+kel,10,not english
+kelly,12,english
+kelp,8,english
+kennedy,32,not english
+kenya,10,not english
+kept,7,english
+keramidas,10,not english
+kerry,11,not english
+kettleborough,21,not english
+kevin,33,not english
+kew,10,not english
+key,67,english
+keywan,20,not english
+khan,20,english
+kiessling,10,not english
+kigali,8,not english
+kill,32,english
+kim,10,not english
+kind,7,english
+kinetic,32,english
+kingdom,28,english
+kirsten,10,not english
+kiswahilikrey,7,not english
+kitous,10,not english
+klein,12,not english
+kleypas,10,not english
+kniveton,10,not english
+know,33,english
+known,31,english
+knutson,41,not english
+knutti,22,not english
+kodjak,10,not english
+kontogianni,11,not english
+kopp,20,not english
+korea,20,not english
+kossin,30,not english
+kostas,10,not english
+kraan,10,not english
+krause,21,not english
+kreidenweis,21,not english
+kriegler,20,not english
+krogstrup,21,not english
+kunkel,10,not english
+kvande,21,not english
+kyoto,96,not english
+l,388,english
+labelled,7,not english
+laboratory,21,english
+lacis,10,not english
+lack,7,english
+ladin,10,not english
+lake,23,english
+lalancette,21,not english
+lancet,55,english
+land,585,english
+landfills,7,english
+lands,8,english
+language,29,english
+languages,49,english
+lapenis,21,not english
+large,121,english
+largely,14,english
+larger,31,english
+largest,28,english
+larsen,12,not english
+last,91,english
+lasts,7,english
+late,21,english
+later,14,english
+latest,10,english
+latin,12,not english
+latinalatvie,7,not english
+latitude,25,english
+latitudes,26,english
+latter,14,english
+laura,10,not english
+laurens,11,not english
+lawrence,23,not english
+laws,15,english
+lawsuits,45,english
+layer,21,english
+layers,7,english
+lccn,9,not english
+le,12,not english
+lead,38,english
+leaders,49,english
+leading,14,english
+leads,29,english
+leaning,21,english
+learning,18,english
+least,14,english
+led,41,english
+left,10,english
+legal,31,english
+legally,7,english
+legislation,7,english
+legislators,35,english
+lei,11,english
+leirvik,10,not english
+leiserowitz,44,not english
+lendrum,12,not english
+lenoir,21,not english
+lens,7,english
+leon,10,not english
+leopold,12,not english
+leopoldina,10,not english
+lerdau,21,not english
+less,104,english
+lessons,12,english
+lester,11,not english
+letcher,10,not english
+letters,191,english
+level,333,english
+levels,175,english
+levermann,21,not english
+levin,12,english
+li,10,not english
+lianbiao,11,not english
+libraries,24,english
+library,48,english
+license,6,english
+liepert,21,not english
+lietuvi,10,not english
+life,142,english
+lifetime,7,english
+lifetimes,7,english
+light,7,english
+lighter,7,english
+like,58,english
+likelihood,7,english
+likely,75,english
+limburgslingua,7,not english
+lime,7,english
+limestone,12,english
+limit,95,english
+limited,34,english
+limiting,77,english
+lincei,10,not english
+linden,10,english
+lindsay,10,not english
+line,10,english
+lineman,10,english
+lines,10,english
+linked,7,english
+linkpage,7,not english
+links,48,english
+linnerooth,11,not english
+lise,10,not english
+list,147,english
+listen,9,english
+literature,54,english
+litigation,51,english
+little,33,english
+liu,41,not english
+live,24,english
+lived,21,english
+livelihoods,37,english
+liverman,32,not english
+lives,7,english
+livestock,8,english
+ller,21,not english
+lnorsk,7,not english
+lobby,8,english
+local,45,english
+located,12,english
+location,24,english
+loeb,11,not english
+loewenstein,21,not english
+logged,9,english
+logging,7,english
+lohmann,10,not english
+london,20,not english
+long,112,english
+longer,50,english
+loop,7,english
+lords,10,english
+lose,14,english
+losing,12,english
+loss,218,english
+lost,35,english
+lot,7,english
+low,234,english
+lower,42,english
+lowering,7,english
+lowest,10,english
+luana,10,not english
+lucon,12,not english
+luderer,20,not english
+luis,10,not english
+luminosity,8,english
+lying,46,english
+lyman,11,not english
+lynas,11,not english
+m,745,english
+ma,21,english
+mac,12,english
+mach,41,not english
+macroeconomic,23,english
+made,42,english
+madruga,10,not english
+mads,10,english
+magazine,46,english
+magnetic,15,english
+magnitude,35,english
+magnitudes,7,english
+magog,34,not english
+mahdi,19,not english
+main,160,english
+maine,13,not english
+mainly,26,english
+maitreya,17,not english
+maize,7,english
+major,80,english
+majority,7,english
+make,7,english
+makes,56,english
+makiko,10,not english
+making,40,english
+malagasy,10,not english
+malaria,25,english
+maldives,8,not english
+mali,15,not english
+malin,11,not english
+malnutrition,10,english
+malte,20,not english
+malthusian,15,not english
+mammals,23,english
+man,21,english
+manage,7,english
+managed,21,english
+management,38,english
+managing,23,english
+mandate,7,english
+mann,10,not english
+manner,7,english
+manning,10,english
+manuel,10,not english
+manufacture,7,english
+manufactured,8,english
+manufacturing,36,english
+manure,38,english
+many,145,english
+map,15,english
+mapping,15,english
+mar,10,english
+march,166,english
+maria,10,english
+marianne,10,not english
+marika,10,not english
+marine,187,english
+mark,21,english
+marked,21,english
+market,7,english
+markus,10,not english
+marland,10,not english
+marrakech,11,not english
+marshall,20,not english
+martin,41,english
+marton,11,not english
+marzeion,10,not english
+mask,16,english
+mason,10,english
+mass,85,english
+masson,52,not english
+masters,10,english
+match,9,english
+matching,8,english
+materials,17,english
+mathematical,11,english
+mathew,10,not english
+matters,12,english
+matthew,40,not english
+matthews,53,not english
+mature,7,english
+maurice,10,not english
+max,32,not english
+maximum,17,english
+may,582,english
+mbow,12,not english
+mccright,53,not english
+mccurry,12,not english
+mcneill,21,not english
+mcsweeney,12,not english
+mcsweeny,12,not english
+me,10,english
+mean,61,english
+meaning,7,english
+meanings,10,english
+means,32,english
+meanwhile,7,english
+measured,25,english
+measurements,62,english
+measures,41,english
+measuring,12,english
+meat,17,english
+mechanism,7,english
+media,91,english
+mediated,11,english
+medicine,32,english
+medieval,8,english
+medium,34,english
+meehl,10,not english
+meet,37,english
+meeting,14,english
+megawatt,19,english
+meier,10,not english
+meinshausen,31,not english
+melayu,10,not english
+melillo,31,not english
+melt,54,english
+melted,14,english
+melting,70,english
+men,7,english
+menu,16,english
+merchants,11,english
+mercure,21,not english
+meredith,12,not english
+meridional,30,english
+merritt,10,not english
+mesosphere,15,english
+messiah,36,english
+messianic,17,english
+messianism,15,not english
+met,16,english
+metals,12,english
+meteorological,55,english
+meter,7,english
+methane,178,english
+methodologies,11,english
+methods,22,english
+metres,7,not english
+metz,10,not english
+mexicana,10,not english
+meyer,31,not english
+mez,10,not english
+michael,115,not english
+michel,22,not english
+michiel,10,not english
+micro,17,english
+microbial,7,english
+microformatsspoken,7,not english
+microphysics,10,english
+microsoft,16,not english
+mid,35,english
+middelburg,10,not english
+middle,30,english
+mie,10,not english
+might,14,english
+migrant,23,english
+migrate,7,english
+migrated,7,english
+migration,107,english
+mikael,10,not english
+mike,21,english
+mild,15,english
+millenarianism,15,english
+millennia,7,english
+millennialism,15,english
+miller,20,english
+million,58,english
+millions,17,english
+milne,10,not english
+minimise,14,not english
+minimises,7,not english
+minimising,7,not english
+minimization,15,not english
+mining,33,english
+minority,8,english
+minpeng,11,not english
+minutes,9,english
+minx,10,english
+miodrag,10,not english
+mireille,10,not english
+miriam,10,not english
+misinformation,30,english
+mismatcharticles,7,not english
+misnomer,8,english
+missing,18,english
+misunderstanding,7,english
+mit,10,not english
+mitchum,21,not english
+mitigate,11,english
+mitigated,14,english
+mitigating,7,english
+mitigation,396,english
+mitigationeconomics,13,not english
+mix,7,english
+mm,7,not english
+mobile,6,english
+mobilising,11,not english
+model,152,english
+modeling,11,not english
+modelling,43,not english
+models,186,english
+modern,36,english
+modes,7,english
+modification,8,english
+modified,7,english
+modifying,7,english
+modulations,10,english
+moisture,35,english
+mongabay,25,not english
+monica,10,not english
+monsoon,18,english
+monsoons,13,english
+montreal,33,not english
+mook,10,not english
+moon,30,english
+more,482,english
+morecroft,11,not english
+mortality,46,english
+most,113,english
+mostafa,20,not english
+mostly,14,english
+motives,7,english
+motors,7,english
+mountain,24,english
+mountains,7,english
+move,16,english
+moved,7,english
+movement,42,english
+movements,11,english
+movie,7,english
+much,100,english
+multi,29,english
+multicentennial,11,not english
+multidecadal,11,not english
+multimillennial,11,not english
+multiple,63,english
+municipal,11,english
+mussels,7,english
+must,14,english
+mustafa,10,not english
+mutel,10,not english
+mutual,15,english
+mwh,24,not english
+myths,13,english
+n,196,english
+nairobi,30,not english
+name,26,english
+namespaces,8,not english
+nanotechnology,17,english
+nanoweapons,15,not english
+naomi,31,not english
+narrow,13,english
+nasa,225,not english
+natcc,89,not english
+natco,22,not english
+natge,55,not english
+nathan,20,not english
+national,516,english
+nationally,11,english
+nations,359,english
+natur,88,not english
+natural,211,english
+naturally,21,english
+nature,425,english
+naturforscher,10,not english
+navarro,10,not english
+navigation,16,english
+nazionale,10,not english
+ncias,10,not english
+nclimate,56,not english
+nd,12,not english
+ndc,23,not english
+ndcs,10,not english
+ndl,9,not english
+near,62,english
+nearly,65,english
+necessary,24,english
+nederlands,10,not english
+need,35,english
+needed,21,english
+needs,14,english
+negative,67,english
+negatively,22,english
+negligible,7,english
+negotiated,7,english
+negotiations,14,english
+neil,30,not english
+neill,21,not english
+nejmra,12,not english
+nemesis,15,english
+nemet,10,not english
+nessc,12,not english
+nestor,11,not english
+net,114,english
+netherlands,22,not english
+neukom,42,not english
+neutral,45,english
+neutrality,30,english
+new,205,english
+newell,21,not english
+news,15,english
+newton,8,english
+next,25,english
+nez,12,not english
+ng,10,not english
+ngeo,44,not english
+nglisc,10,not english
+ni,8,not english
+nibiru,15,not english
+nick,20,english
+nico,10,not english
+nicolas,12,not english
+nigel,10,not english
+nights,14,english
+ning,10,not english
+ninth,9,english
+nitrogen,53,english
+nitrous,53,english
+nl,9,not english
+no,99,english
+noaa,121,not english
+noah,20,not english
+noblet,12,not english
+non,114,english
+none,6,english
+nordfriisknorsk,7,not english
+norgaard,10,not english
+norman,11,not english
+norse,15,not english
+north,59,english
+northern,21,english
+not,218,english
+noted,14,english
+notes,51,english
+nov,22,not english
+novalugandalombardmagyar,7,not english
+november,391,not english
+now,41,english
+nrc,32,not english
+nrel,22,not english
+nsidc,12,not english
+nuccitelli,12,not english
+nuclear,143,english
+nuclei,8,english
+nudging,10,english
+nuisance,12,english
+number,37,english
+numerous,10,english
+ny,20,not english
+nynorskoccitan,7,not english
+o,188,english
+obersteiner,32,not english
+object,36,english
+objections,7,english
+obscured,11,english
+observations,108,english
+observatory,24,english
+observed,119,english
+obstacles,7,english
+occupational,11,english
+occur,35,english
+occurred,10,english
+occurring,14,english
+ocean,465,english
+oceanic,31,english
+oceanography,15,english
+oceans,104,english
+oclc,11,not english
+october,344,not english
+of,6372,english
+off,7,english
+offer,7,english
+office,32,english
+offs,41,english
+offset,37,english
+often,66,english
+ogburn,12,not english
+ohmura,10,not english
+oil,89,english
+oki,12,not english
+oldenborgh,21,not english
+older,21,english
+oldid,7,not english
+olesperantoeuskara,7,not english
+oliver,10,not english
+olivet,19,not english
+olivia,10,not english
+olivier,32,not english
+olsson,12,not english
+oman,21,not english
+on,2505,english
+once,7,english
+one,59,english
+online,12,english
+only,76,english
+onshore,20,english
+onwards,14,not english
+opinion,98,english
+opondo,12,not english
+oppenheimer,44,not english
+opportunities,11,english
+opposed,10,english
+opposing,7,english
+opposites,13,english
+opposition,11,english
+options,36,english
+or,357,english
+orbit,30,english
+order,49,english
+oreskes,53,not english
+org,38,not english
+organic,15,english
+organisms,14,english
+organization,104,not english
+organizations,11,not english
+organized,10,not english
+orgill,21,not english
+original,720,english
+originated,7,english
+origins,10,english
+oromoo,10,not english
+ortega,10,not english
+oscillation,8,english
+osti,11,not english
+other,248,english
+others,33,english
+ottmar,10,not english
+ouchi,12,not english
+our,147,english
+out,60,english
+outbreaks,10,english
+outlets,7,english
+outline,16,english
+outlook,23,english
+output,23,english
+outputs,11,english
+outweigh,11,english
+ove,10,not english
+over,308,english
+overall,14,english
+overconsumption,15,not english
+overdrafting,15,not english
+overexploitation,34,not english
+overfishing,36,english
+overgrazing,15,english
+overlooked,11,english
+overpopulation,40,english
+overshoot,36,english
+overturning,38,english
+overview,74,english
+owing,12,english
+own,7,english
+oxford,136,english
+oxide,77,english
+oxygen,58,english
+ozone,118,english
+p,1952,english
+pablo,10,not english
+pachauri,10,not english
+pacific,15,english
+package,7,english
+page,24,english
+pagecontentscurrent,7,not english
+pages,18,english
+pagesfeatured,7,not english
+pagespermanent,7,not english
+pageswikipedia,7,not english
+pagewikidata,7,not english
+paige,12,not english
+paint,17,english
+pale,13,english
+paleocene,8,not english
+paleoclimate,24,not english
+paleoclimatology,38,not english
+paleotempestology,23,not english
+palm,24,english
+palmer,11,english
+palutikof,10,not english
+pam,11,not english
+pamela,10,not english
+pandemic,19,english
+panel,173,english
+panels,8,english
+paola,24,not english
+paolo,10,not english
+paper,28,english
+papers,22,english
+paris,239,not english
+park,34,english
+parliament,97,english
+parry,10,english
+part,55,english
+partially,7,english
+particle,15,english
+particular,31,english
+particularly,33,english
+particulates,15,english
+parties,45,english
+partisan,7,english
+pass,7,english
+passengers,7,english
+passing,7,english
+past,95,english
+pathway,17,english
+pathways,103,english
+patoispolskiportugu,7,not english
+patrick,10,not english
+pattern,40,english
+patterns,45,english
+patwardhan,12,not english
+paul,22,not english
+paulo,10,not english
+pauses,7,english
+pay,7,english
+pbl,10,not english
+pdf,1290,not english
+pdfprintable,7,not english
+peach,12,english
+peak,10,english
+pearce,11,not english
+peer,44,english
+penetration,11,english
+people,184,english
+peoples,34,english
+per,100,english
+percent,42,english
+percentage,10,english
+perdition,19,english
+performance,33,english
+period,117,english
+periods,47,english
+permafrost,80,english
+permanence,11,english
+permanent,30,english
+permanently,7,english
+perry,11,english
+persist,7,english
+persistent,10,english
+persists,10,english
+person,9,english
+personal,43,english
+perspectives,11,english
+pertaining,11,english
+pervasive,7,english
+pest,16,english
+pesticides,17,english
+peter,72,english
+peters,32,english
+peterson,20,not english
+petitions,13,english
+petm,11,not english
+petroleum,17,english
+pew,66,english
+pg,10,not english
+pharmaceuticals,17,english
+phase,8,english
+phased,7,english
+phasing,8,english
+phenomena,10,english
+phenomenon,22,english
+philip,10,not english
+phillips,10,not english
+philosophical,33,english
+phosphorus,15,english
+photosynthesis,7,english
+php,7,not english
+physical,213,english
+physics,96,english
+phytoplankton,8,english
+pichs,10,not english
+picked,10,english
+pierre,10,not english
+pierrehumbert,33,not english
+piers,10,english
+pine,16,english
+ping,10,english
+pioneer,13,english
+pirani,10,not english
+place,22,english
+places,7,english
+plan,26,english
+planet,128,english
+planetary,27,english
+planets,15,english
+planned,13,english
+plans,15,english
+plant,53,english
+planting,15,english
+plants,38,english
+plass,8,not english
+plastics,17,english
+plate,15,english
+plattner,10,not english
+play,21,english
+playbook,25,english
+playing,10,english
+pledges,59,english
+plos,11,not english
+ploso,11,not english
+plus,9,english
+pmc,231,not english
+pmid,520,not english
+pnas,151,not english
+point,14,english
+points,96,english
+polar,69,english
+pole,33,english
+poles,14,english
+poleward,26,english
+policies,63,english
+policy,134,english
+policymakers,320,english
+political,35,english
+politicians,7,english
+politico,35,english
+politics,73,english
+pollard,21,english
+pollinator,19,english
+pollitt,10,not english
+pollution,177,english
+poloczanska,21,not english
+pone,12,english
+poor,20,english
+poorer,14,english
+poorly,7,english
+pop,23,english
+popular,15,english
+popularised,7,not english
+popularity,14,english
+popularly,7,english
+population,17,english
+populations,112,english
+portal,123,english
+portalrecent,7,not english
+porter,12,english
+portfolio,13,english
+portrayed,7,english
+position,6,english
+positive,7,english
+possibility,18,english
+possible,14,english
+post,49,english
+postmillennialism,17,english
+potent,7,english
+potential,70,english
+potentially,58,english
+poverty,104,english
+powell,23,not english
+power,159,english
+powerful,7,english
+pp,906,not english
+ppm,7,not english
+pre,53,not english
+precipitation,22,english
+precise,7,english
+predict,26,english
+predicted,22,english
+prediction,32,english
+predictions,10,english
+prehistorical,7,english
+preindustrial,22,english
+premature,10,english
+premillennialism,17,english
+preparing,13,english
+present,47,english
+presented,7,english
+press,249,english
+pressures,7,english
+preterism,19,not english
+prevent,14,english
+preventing,31,english
+prevention,8,english
+previdi,21,not english
+previous,8,english
+previously,13,english
+prewrath,17,not english
+priced,14,english
+prices,11,english
+pricing,32,english
+primarily,24,english
+primary,49,english
+principal,10,english
+print,7,english
+priorities,11,english
+privacy,12,english
+probably,28,english
+problem,63,english
+problems,17,english
+procedures,7,english
+proceedings,88,english
+process,32,english
+processes,56,english
+produce,65,english
+produced,38,english
+producing,7,english
+product,7,english
+production,179,english
+productivity,21,english
+products,28,english
+professionals,10,english
+profile,10,english
+profit,5,english
+program,50,english
+programme,126,not english
+progress,36,english
+progressively,9,english
+prohibitively,7,english
+project,94,english
+projected,30,english
+projections,47,english
+projects,75,english
+prolonged,7,english
+prominent,7,english
+promote,14,english
+propagation,16,english
+properties,10,english
+prophecy,34,english
+proportionality,10,english
+proposed,29,english
+proposes,12,english
+propulsion,26,english
+prosperous,11,english
+protect,42,english
+protected,18,english
+protecting,17,english
+protection,62,english
+protest,11,english
+protested,7,english
+protesting,16,english
+protests,38,english
+protocol,122,english
+protocols,7,english
+proton,15,english
+provide,31,english
+provides,7,english
+provision,11,english
+proxies,8,english
+proxy,20,english
+public,317,english
+published,60,english
+publishing,30,english
+pugh,10,not english
+pulse,15,english
+pumps,24,english
+pushed,7,english
+put,10,english
+puts,7,english
+q,38,english
+qa,19,not english
+qarnayn,19,not english
+qin,20,not english
+qj,11,not english
+qjrms,11,not english
+quality,28,english
+quantitative,11,english
+quantities,7,english
+quarrying,15,english
+quarterly,11,english
+question,7,english
+questioning,7,english
+questions,7,english
+r,444,english
+radiate,7,english
+radiated,15,english
+radiates,8,english
+radiating,14,english
+radiation,97,english
+radiative,56,english
+rahmstorf,22,not english
+raindrops,8,english
+rainfall,58,english
+rainforests,10,not english
+raise,7,english
+raises,14,english
+ramanathan,21,not english
+ramping,9,english
+randal,12,not english
+randall,12,not english
+randel,21,not english
+range,105,english
+ranges,22,english
+rankin,12,not english
+ranks,9,english
+raphael,20,not english
+rapid,28,english
+rapidly,29,english
+rapture,32,english
+rare,7,english
+rate,72,english
+rates,34,english
+rather,7,english
+ratified,8,english
+ratio,21,english
+rauner,21,not english
+raw,10,english
+ray,15,english
+raymond,11,not english
+rays,13,english
+rbaycanca,10,not english
+rcp,20,not english
+re,17,english
+reach,59,english
+reached,21,english
+reaches,7,english
+reaching,60,english
+reaction,23,english
+reactions,17,english
+reacts,12,english
+readers,7,english
+readview,8,not english
+realism,7,english
+reason,7,english
+reasons,11,english
+rebecca,10,not english
+rebellion,8,english
+rebuttal,34,english
+recent,163,english
+recognised,7,not english
+reconciling,11,english
+reconsideration,13,english
+reconstruction,18,english
+reconstructions,11,english
+record,61,english
+records,7,english
+recovery,12,english
+recycling,15,english
+red,28,english
+redirects,7,english
+redox,12,not english
+reduce,98,english
+reduced,56,english
+reduces,25,english
+reducing,106,english
+reduction,79,english
+reductions,42,english
+reef,28,english
+reefs,91,english
+reemit,7,not english
+reep,23,not english
+reevaluate,7,english
+refer,14,english
+reference,10,english
+references,20,english
+referencing,17,english
+refers,44,english
+reflect,31,english
+reflected,14,english
+reflecting,29,english
+reflective,7,english
+reflectivity,10,english
+reflects,18,english
+reforestation,63,english
+refugees,10,english
+regime,11,english
+regimes,18,english
+region,45,english
+regional,133,english
+regions,167,english
+registered,5,english
+regularly,7,english
+regulating,7,english
+regulations,26,english
+reinforced,7,english
+reinforcing,24,english
+rejected,7,english
+related,22,english
+relative,19,english
+relatively,14,english
+relativistic,17,english
+release,68,english
+released,21,english
+releases,7,english
+relevant,7,english
+reliance,7,english
+relied,7,english
+relocate,7,english
+rely,22,english
+remain,26,english
+remaining,25,english
+remains,14,english
+remko,10,not english
+removal,74,english
+remove,7,english
+removing,32,english
+ren,31,not english
+renewable,181,english
+renewables,82,not english
+rep,11,english
+repercussions,11,english
+replaced,14,english
+replacement,7,english
+report,769,english
+reporters,11,english
+reports,66,english
+represent,14,english
+representation,7,english
+represented,7,english
+representing,7,english
+reproduce,14,english
+require,25,english
+required,21,english
+requires,41,english
+requiring,7,english
+res,11,not english
+research,428,english
+researcher,13,english
+reservoirs,40,english
+residents,9,english
+residual,10,english
+resilience,34,english
+resistant,7,english
+resolution,10,english
+resource,34,english
+resources,258,english
+respectively,14,english
+respiratory,10,english
+responded,7,english
+responding,42,english
+response,109,english
+responses,66,english
+responsible,28,english
+rest,24,english
+restated,7,english
+reston,10,not english
+restoration,39,english
+restored,7,english
+restoring,14,english
+restrict,7,english
+restricted,12,english
+result,50,english
+resulted,7,english
+resulting,14,english
+results,28,english
+resurrection,15,english
+rethinking,11,english
+reto,30,not english
+retrained,7,english
+retreat,50,english
+retrieved,1338,english
+retrofitting,7,english
+return,10,english
+reuters,12,not english
+reveal,22,english
+revelation,40,english
+revelle,8,not english
+revi,12,not english
+review,87,english
+reviewed,44,english
+reviews,22,english
+revision,8,english
+revisit,11,english
+revolution,31,english
+rez,23,not english
+rg,34,not english
+rge,12,not english
+rhein,12,not english
+rhett,12,not english
+riahi,31,not english
+rice,31,english
+rich,7,english
+richard,73,not english
+rider,8,english
+riebeek,12,not english
+rien,10,not english
+rigby,12,not english
+rights,31,english
+riley,30,not english
+rings,9,english
+rintoul,12,not english
+rip,15,english
+risa,11,not english
+rise,365,english
+risen,31,english
+rises,7,english
+rishav,10,not english
+rising,102,english
+risk,338,english
+risking,7,english
+risks,65,english
+risky,18,english
+rita,10,not english
+ritchie,58,not english
+rivers,7,english
+rivm,34,not english
+rk,10,not english
+rkmen,10,not english
+rnberg,54,not english
+roads,24,english
+robbie,10,not english
+robert,75,not english
+roberts,32,not english
+robinson,10,not english
+rocky,12,english
+rodger,10,not english
+roesch,10,not english
+rogelj,64,not english
+roger,18,english
+rogner,12,not english
+rogue,17,english
+role,78,english
+romain,10,not english
+romanou,10,not english
+ron,20,not english
+rose,21,english
+rosenzweig,24,not english
+roser,23,not english
+rowalon,7,not english
+rowan,10,english
+roy,12,not english
+royal,74,english
+roysktfran,7,not english
+rspta,11,not english
+rsta,11,not english
+rstb,11,not english
+rtner,20,not english
+rudd,12,english
+ruedy,30,not english
+ruiz,12,not english
+ruled,14,english
+ruling,12,english
+rumantsch,10,not english
+runaway,17,english
+ruseva,21,not english
+russell,10,not english
+russian,10,not english
+rusticucci,12,not english
+ruth,11,english
+rvgeo,22,not english
+s,2035,english
+safety,15,english
+saffron,10,english
+sahara,7,not english
+saharan,19,not english
+said,19,english
+sally,11,english
+salon,35,english
+salzen,10,not english
+same,42,english
+samset,32,not english
+sand,31,english
+sanitation,8,english
+saoshyant,17,not english
+sara,24,not english
+sarah,20,not english
+satellite,61,english
+satellites,8,english
+sato,10,not english
+saturated,7,english
+save,26,english
+saving,11,english
+saw,7,english
+say,13,english
+says,12,english
+scale,81,english
+scaled,9,english
+scales,11,english
+scambos,10,not english
+scarcity,41,english
+scatter,7,english
+scenario,56,english
+scenarios,179,english
+sceptical,7,not english
+schaart,12,not english
+schaeffer,10,not english
+schlosberg,10,not english
+schmidt,42,not english
+schneider,22,not english
+scholar,11,english
+scholia,11,not english
+scholz,10,not english
+school,72,english
+schuckman,11,not english
+schulz,12,not english
+schurer,10,not english
+schweiger,10,not english
+sci,88,not english
+scia,11,not english
+sciadv,11,not english
+science,648,english
+scienceblogs,24,not english
+sciences,205,english
+scientific,256,english
+scientifically,17,english
+scientist,7,english
+scientists,182,english
+score,9,english
+scott,33,not english
+screen,10,english
+sea,412,english
+seabirds,8,english
+seals,23,english
+search,14,english
+season,37,english
+seasonal,15,english
+seasonally,10,english
+seasons,7,english
+sebastian,10,not english
+sec,10,not english
+second,43,english
+secretariat,21,english
+section,23,english
+sector,58,english
+sectoral,23,english
+sectors,9,english
+security,86,english
+see,69,english
+seek,7,english
+seelterskshqipsicilianu,7,not english
+seen,7,english
+segalov,12,not english
+seiji,11,not english
+select,21,english
+selected,11,english
+selection,13,english
+self,58,english
+sell,7,english
+semantic,11,english
+semenov,12,not english
+semi,16,english
+sen,10,not english
+senate,8,english
+sending,7,english
+sense,11,english
+sensitive,12,english
+sensitivity,68,english
+september,380,not english
+sepulveda,11,not english
+sequester,7,english
+sequestration,72,english
+serdeczny,21,not english
+sergey,11,not english
+serious,7,english
+served,7,english
+serves,7,english
+service,20,english
+services,21,english
+session,21,english
+set,72,english
+setzer,21,not english
+seven,46,english
+seventy,19,english
+several,38,english
+severe,49,english
+severity,10,english
+seymour,12,not english
+shaftel,35,not english
+shale,17,english
+shameful,13,english
+shang,10,not english
+share,36,english
+sharealike,6,not english
+shared,24,english
+sharifi,11,not english
+sharing,7,english
+sharma,10,not english
+she,7,english
+sheep,19,english
+sheet,26,english
+sheets,51,english
+shelley,10,not english
+shells,8,english
+shepherd,10,english
+shevliakova,12,not english
+shi,10,not english
+shift,19,english
+shifting,8,english
+shifts,7,english
+shindell,33,not english
+shine,11,english
+shipping,24,english
+shock,12,english
+short,72,english
+shortages,14,english
+shortwave,11,english
+should,20,english
+show,51,english
+showed,7,english
+showing,17,english
+shown,45,english
+shows,16,english
+shrinkage,15,english
+shrinking,28,english
+shruti,10,not english
+shuckburgh,10,not english
+shugart,21,not english
+shukla,10,not english
+shutdown,23,english
+sidr,27,not english
+sign,13,english
+signal,7,english
+signals,12,english
+signe,10,not english
+signed,14,english
+significant,80,english
+significantly,23,english
+signs,61,english
+similar,14,english
+simon,22,not english
+simple,17,english
+simulate,14,english
+simulation,11,english
+simulations,11,english
+simultaneously,14,english
+sin,21,english
+since,220,english
+single,7,english
+singularity,15,english
+sink,59,english
+sinking,11,english
+sinks,24,english
+sister,19,english
+sisternes,11,not english
+site,5,english
+situation,18,english
+sixth,62,english
+size,16,english
+sjoukje,10,not english
+skea,10,not english
+skeletons,8,english
+skeptic,11,not english
+skeptics,7,not english
+skipping,7,english
+slay,10,english
+slenskaitaliano,7,not english
+slight,7,english
+sloven,13,english
+slow,26,english
+slowdown,11,english
+slowing,27,english
+slowly,7,english
+smale,21,not english
+small,42,english
+smaller,14,english
+smelting,11,english
+smith,74,english
+smithsonian,35,not english
+smoke,11,english
+smooth,7,english
+snapshot,12,english
+snow,90,english
+so,70,english
+social,70,english
+societal,22,english
+societies,13,english
+society,266,english
+socio,7,not english
+socioeconomic,32,english
+sociological,22,english
+soft,25,english
+soil,72,english
+soils,7,english
+sokona,10,not english
+solar,286,english
+solecki,12,not english
+solid,11,english
+solomon,10,not english
+soluble,7,english
+solutions,47,english
+some,125,english
+somerville,12,not english
+sometimes,7,english
+sommerkorn,12,not english
+son,19,english
+song,11,english
+sonja,10,not english
+sons,10,english
+soot,8,english
+sophie,33,not english
+source,40,english
+sources,140,english
+sourceview,8,not english
+south,82,english
+southern,30,english
+sovereign,15,english
+soybeans,7,english
+space,54,english
+spadaro,10,not english
+sparser,15,english
+special,173,english
+species,88,english
+specific,10,english
+specifically,7,english
+spectrophotometer,10,english
+spectrum,7,english
+speed,19,english
+spelling,9,english
+spencer,109,english
+split,7,english
+spm,100,not english
+spoken,11,english
+sprawl,17,english
+spread,20,english
+spring,7,english
+springer,30,english
+springmann,21,not english
+spurred,7,english
+sr,458,not english
+src,6,not english
+srccl,207,not english
+srm,14,not english
+srocc,177,not english
+srom,7,not english
+srpskisrpskohrvatski,7,not english
+st,79,not english
+stabilised,7,not english
+stabilizing,11,not english
+stage,7,english
+stake,9,english
+standard,10,english
+standards,38,english
+standing,7,english
+standpoint,8,english
+star,15,english
+start,13,english
+starting,7,english
+state,110,english
+stated,14,english
+statelessness,19,english
+statement,39,english
+statements,33,english
+statementsarticles,7,not english
+stateoftheclimate,11,not english
+states,164,english
+statistical,21,english
+statistics,6,english
+status,24,english
+stayed,10,english
+steel,27,english
+steele,10,not english
+steelmaking,8,not english
+stefan,11,not english
+stegui,12,not english
+steiger,10,not english
+steinberg,10,not english
+stellar,15,english
+step,7,english
+stephane,10,not english
+stephanie,12,not english
+stephen,10,not english
+stephens,11,not english
+steps,10,english
+stevanovi,10,not english
+stewart,19,not english
+still,37,english
+stilling,19,english
+stimulated,7,english
+stocker,10,not english
+stop,7,english
+storage,78,english
+stored,27,english
+storelvmo,32,not english
+stories,7,english
+storm,31,english
+storms,29,english
+stott,64,not english
+stover,23,english
+stranded,19,english
+strangelet,17,not english
+strategic,11,english
+strategies,35,english
+strategy,7,english
+stratosphere,49,english
+stratospheric,21,english
+stream,8,english
+strength,7,english
+strengthen,7,english
+strengthening,25,english
+strengthens,9,english
+strengths,8,english
+strenuous,7,english
+stress,26,english
+stricken,7,english
+strife,11,english
+strike,42,english
+strikes,13,english
+stringent,11,english
+stripes,23,english
+stroeve,21,not english
+strong,33,english
+stronger,14,english
+strongly,14,english
+structure,26,english
+structured,11,english
+studholme,11,not english
+studies,21,english
+study,45,english
+studying,33,english
+style,19,english
+stylebook,13,not english
+sub,19,english
+subaerial,11,not english
+subcommittee,11,english
+subject,10,english
+subsequent,8,english
+subsequently,7,english
+subset,8,english
+subsidies,15,english
+subsidy,11,english
+substantial,7,english
+subtropics,8,english
+success,19,english
+successful,7,english
+such,211,english
+suckling,10,english
+suess,8,not english
+sufficiently,7,english
+sufyani,19,not english
+suh,12,not english
+suit,7,english
+sulfate,7,not english
+sulfur,8,not english
+sullivan,10,not english
+summary,419,english
+summer,49,english
+summers,7,english
+sun,85,english
+sundasuomisvenskatagalog,7,not english
+sunlight,94,english
+sunshine,11,english
+supernova,15,english
+superstorms,11,not english
+supervolcano,19,not english
+suppl,10,not english
+supplement,49,english
+supplies,10,english
+supply,8,english
+support,58,english
+supported,14,english
+suraje,10,not english
+surface,342,english
+surfaces,17,english
+surminski,11,not english
+surpassed,9,english
+surprises,11,english
+survey,10,english
+surveys,7,english
+survive,15,english
+susan,12,not english
+susana,10,not english
+susin,10,not english
+suspicions,28,english
+sustainability,66,english
+sustainable,176,english
+sustained,17,english
+sutton,21,not english
+suwayqatayn,19,not english
+svante,27,not english
+sven,50,not english
+swaps,11,english
+swaths,15,english
+swedish,7,not english
+swenja,11,not english
+switch,21,english
+switching,21,english
+switzerland,40,not english
+sydeman,10,not english
+synergies,15,english
+synergistically,10,english
+synthesis,68,english
+synthetic,15,english
+syr,171,not english
+system,303,english
+systemic,7,english
+systems,69,english
+t,325,english
+table,50,english
+tackling,7,english
+tail,8,english
+taka,10,english
+take,46,english
+taken,17,english
+takeover,17,english
+takes,28,english
+taking,15,english
+talk,23,english
+talking,11,english
+tamma,12,not english
+tandon,11,not english
+tank,12,english
+tanks,8,english
+taqbaylit,10,not english
+target,30,english
+targets,28,english
+tatar,10,not english
+tatyana,10,not english
+tax,33,english
+taxes,8,english
+taylor,22,not english
+team,21,english
+technical,90,english
+technique,7,english
+techniques,14,english
+technological,26,english
+technologies,32,english
+technology,35,english
+tectonics,15,english
+ted,10,english
+teenager,7,english
+television,12,english
+telly,15,english
+temperate,7,english
+temperature,487,english
+temperatures,146,english
+temple,19,english
+ten,7,english
+tend,7,english
+term,155,english
+termed,7,english
+terminology,33,english
+terms,42,english
+terrestrial,99,english
+territories,17,english
+terry,10,english
+teske,84,not english
+tested,7,english
+testimony,14,english
+tests,10,english
+texas,15,not english
+text,5,english
+th,63,not english
+than,196,english
+that,723,english
+thawing,13,english
+thaws,16,english
+the,8892,english
+their,144,english
+them,22,english
+themselves,14,english
+then,28,english
+theory,45,english
+theorymeasurements,13,not english
+there,153,english
+therefore,14,english
+thermal,34,english
+thermally,12,english
+thermodynamics,12,english
+thermohaline,23,not english
+thermometer,7,english
+thermosphere,15,english
+these,271,english
+thessalonians,19,not english
+they,156,english
+thickness,10,english
+things,13,english
+think,8,english
+thinner,7,english
+thinning,8,english
+third,37,english
+thirds,24,english
+this,357,english
+thomas,40,not english
+thomsen,10,not english
+thorne,10,not english
+thorsen,11,not english
+those,38,english
+though,7,english
+thought,33,english
+thousand,10,english
+thousands,17,english
+threat,70,english
+threaten,23,english
+threatened,26,english
+threatening,7,english
+threatens,23,english
+threats,15,english
+three,34,english
+thresholds,7,english
+through,56,english
+thunberg,8,not english
+ti,10,english
+tidal,16,english
+tignor,10,not english
+time,119,english
+times,57,english
+timescale,7,english
+tinacymraegdanskdeutscheesti,7,not english
+tiopot,12,not english
+tipping,107,english
+title,13,english
+to,3104,english
+tobacco,44,english
+tobias,10,not english
+today,66,english
+together,7,english
+tolerance,7,english
+tom,10,english
+tomorrow,9,english
+tonnes,7,english
+too,56,english
+took,13,english
+tool,7,english
+tools,14,english
+top,10,english
+topic,14,english
+total,49,english
+totalling,7,not english
+tough,12,english
+tourism,15,english
+tovar,10,not english
+towards,14,english
+track,11,english
+tracker,12,english
+tracking,11,english
+trade,29,english
+trademark,5,english
+trading,31,english
+traditionally,7,english
+trains,7,english
+trajectories,10,english
+trajectory,10,english
+transactions,22,english
+transformation,23,english
+transformational,11,english
+transformative,7,not english
+transhumanism,15,not english
+transient,11,english
+transition,74,english
+transmission,8,english
+transmitted,7,english
+transparent,21,english
+transport,107,english
+transportation,10,english
+trapp,10,not english
+trapped,7,english
+trapping,7,english
+traps,9,english
+travel,7,english
+treaties,12,english
+treating,10,english
+treaty,19,english
+tree,39,english
+trees,14,english
+trenberth,21,not english
+trend,36,english
+trendlines,18,not english
+trends,113,english
+treut,12,not english
+trevor,10,not english
+tribulation,38,english
+tries,7,english
+trigger,19,english
+triggering,7,english
+trillion,7,english
+triple,14,english
+tropic,7,english
+tropical,36,english
+tropics,7,english
+troposphere,53,english
+tropospheric,19,english
+trump,13,english
+truth,20,english
+ts,20,english
+tschakert,24,not english
+tsigaridis,21,not english
+tube,9,english
+turetsky,21,not english
+turner,21,english
+tuvalu,8,not english
+tv,7,not english
+twenty,10,english
+twice,39,english
+two,102,english
+twomey,21,not english
+tyler,11,not english
+tyndall,78,not english
+type,13,english
+types,11,english
+typhoons,8,english
+typically,38,english
+tyukavina,10,not english
+tzebuergesch,10,not english
+u,137,english
+uales,10,not english
+uk,84,not english
+ul,7,not english
+ulrich,10,not english
+ultimate,17,english
+un,130,not english
+unable,7,english
+unavoidable,10,english
+uncertain,35,english
+uncertainties,7,english
+uncertainty,59,english
+unclear,14,english
+unconditional,10,english
+under,149,english
+underestimated,21,english
+underestimating,7,english
+undermine,15,english
+undermining,7,english
+undernutrition,15,not english
+understanding,42,english
+understood,14,english
+undp,21,not english
+unep,31,not english
+unequivocal,17,english
+unevenly,14,english
+unfccc,193,not english
+unhcr,11,not english
+uninhabitable,14,english
+union,77,english
+unique,7,english
+united,483,english
+universe,62,english
+university,162,english
+unlike,7,english
+unplug,7,english
+unprecedented,7,english
+unsafe,13,english
+unsuitable,7,english
+unveiled,13,english
+unwarranted,7,english
+up,120,english
+update,53,english
+upon,10,english
+upper,24,english
+uptake,47,english
+upward,17,english
+urban,83,english
+urbanization,15,not english
+urged,12,english
+urgent,27,english
+us,109,english
+usa,45,not english
+usdonate,7,not english
+use,286,english
+used,103,english
+uses,20,english
+usgcrp,212,not english
+using,56,english
+usually,7,english
+utc,6,not english
+utilities,8,english
+utility,12,english
+v,165,english
+va,10,not english
+vacuum,15,english
+van,73,english
+vandyck,21,not english
+vapour,51,not english
+vapours,11,not english
+variability,167,english
+variable,7,english
+variables,10,english
+variants,15,english
+variations,29,english
+varied,7,english
+various,48,english
+vary,14,english
+vautard,10,not english
+vegetation,17,english
+vehicle,50,english
+vehicles,31,english
+venice,16,not english
+veps,10,not english
+verge,35,english
+verneshot,19,not english
+version,10,english
+vertical,12,english
+very,100,english
+vi,40,not english
+via,14,english
+viability,11,english
+vice,35,english
+victoria,10,english
+video,9,english
+view,35,english
+views,15,english
+virtual,30,english
+vision,11,english
+vital,50,english
+vitals,11,english
+volcanic,86,english
+volcanism,11,english
+volcanoes,11,english
+volume,12,english
+von,21,not english
+vorsatz,12,not english
+vote,11,english
+vows,13,english
+vox,35,not english
+vs,26,not english
+vteanthropogenic,11,not english
+vteclimate,11,not english
+vteearthcontinents,9,not english
+vteglobal,11,not english
+vulnerabilities,26,english
+vulnerability,82,english
+vulnerable,22,english
+vuuren,10,not english
+w,296,english
+wagner,32,not english
+waisman,12,not english
+wake,12,english
+wal,12,not english
+waliser,10,not english
+walking,7,english
+walsh,10,not english
+walt,10,not english
+walter,10,not english
+wang,51,not english
+war,72,english
+warfare,51,english
+warm,44,english
+warmed,38,english
+warmer,46,english
+warming,1582,english
+warms,16,english
+warmth,7,english
+warning,8,english
+warren,12,english
+was,176,english
+washington,70,not english
+waste,33,english
+wastewater,18,english
+water,198,english
+watery,13,english
+watson,10,not english
+watts,98,english
+wave,41,english
+waves,52,english
+way,11,english
+we,63,english
+weakened,7,english
+wealthy,7,english
+weapon,17,english
+weart,164,not english
+weather,157,english
+weaver,10,english
+web,17,english
+webs,8,english
+weekly,11,english
+weeks,19,english
+wehner,10,not english
+wei,20,not english
+weighs,13,english
+welch,12,not english
+well,77,english
+welle,34,not english
+were,70,english
+wernberg,10,not english
+werner,10,not english
+west,8,english
+wet,7,english
+wetlands,22,english
+wg,762,not english
+what,226,english
+wheat,7,english
+when,46,english
+where,113,english
+whereas,21,english
+whether,21,english
+which,224,english
+while,121,english
+who,125,english
+whore,23,english
+why,52,english
+wide,21,english
+widely,14,english
+wider,7,english
+widespread,35,english
+width,6,english
+wiki,6,english
+wikibooksresources,8,not english
+wikidata,14,not english
+wikidatawikipedia,7,not english
+wikimedia,16,not english
+wikinewsquotations,8,not english
+wikipedia,53,not english
+wikipediacontact,7,not english
+wikiquotetexts,8,not english
+wikisourcetextbooks,8,not english
+wikiversity,10,not english
+wiktionarymedia,8,not english
+wild,41,english
+wildfire,21,english
+wildfires,48,english
+wildlife,22,english
+wiley,10,not english
+will,169,english
+william,40,not english
+williams,21,not english
+willy,10,english
+win,7,english
+winaray,10,not english
+wind,90,english
+wing,12,english
+winter,55,english
+winters,15,english
+with,667,english
+within,45,english
+without,7,english
+witnesses,23,english
+wmo,55,not english
+wnisr,12,not english
+wolff,32,not english
+wolfgang,10,not english
+women,14,english
+wood,12,english
+woodward,12,not english
+word,34,english
+work,42,english
+workers,20,english
+working,111,english
+world,659,english
+worldwide,39,english
+worry,14,english
+worse,13,english
+worsened,22,english
+worsening,10,english
+worst,7,english
+would,246,english
+wri,24,not english
+writing,10,english
+written,12,english
+wrong,10,english
+wuebbles,30,not english
+x,60,english
+xie,22,not english
+xii,10,not english
+xiii,20,not english
+xx,10,not english
+xxiii,30,not english
+xxvii,20,not english
+xxxv,10,not english
+y,32,english
+yale,79,not english
+yamasumi,10,not english
+yanyi,10,not english
+year,170,english
+yearly,15,english
+years,164,english
+yeo,23,not english
+yet,7,english
+yi,11,not english
+yields,25,english
+yohe,22,not english
+yoon,31,not english
+york,75,english
+you,15,english
+young,14,english
+younger,7,english
+your,13,english
+youth,11,english
+yuga,17,not english
+yuno,10,not english
+z,55,english
+zamora,10,not english
+zazaki,10,not english
+zeke,36,not english
+zeng,42,not english
+zero,55,english
+zhai,30,not english
+zhang,21,not english
+zhao,21,not english
+zhengyu,10,not english
+zhou,22,not english
+zhu,21,not english
+zickfeld,10,not english
+zombie,32,english
+zones,30,english
+zoroastrian,15,not english
+zwiers,12,not english
+wiktionary,2,not english
+wikinews,2,not english
+quotations,4,english
+wikiquote,5,not english
+texts,4,english
+wikisource,2,not english
+textbooks,4,english
+wikibooks,2,not english
+vte,8,not english
+vteearth,2,not english
+featured,2,english
+images,2,english
+microformats,2,not english
+mismatch,2,english
+identifiers,10,english
+log,3,english
+read,3,english
+random,3,english
+donate,3,english
+learn,3,english
+upload,6,english
+link,3,english
+cite,3,english
+printable,3,english
+afrikaans,3,not english
+alemannisch,3,not english
+asturianu,3,not english
+ava,3,not english
+boarisch,3,not english
+bosanski,3,not english
+brezhoneg,3,not english
+tina,3,not english
+cymraeg,3,not english
+dansk,3,not english
+eesti,3,not english
+ol,3,not english
+esperanto,3,not english
+euskara,3,not english
+hindi,3,not english
+royskt,3,not english
+ais,3,english
+fran,3,not english
+furlan,3,not english
+gaeilge,3,not english
+idhlig,3,not english
+galego,3,not english
+hrvatski,3,not english
+ido,3,not english
+ilokano,3,not english
+indonesia,3,not english
+interlingua,3,not english
+slenska,3,not english
+italiano,3,not english
+kiswahili,3,not english
+ayisyen,3,not english
+krey,3,not english
+gwiyannen,3,not english
+kriy,3,not english
+kurd,3,not english
+latina,3,not english
+latvie,3,not english
+limburgs,3,not english
+lingua,3,english
+nova,3,english
+luganda,3,not english
+lombard,3,not english
+magyar,3,not english
+nordfriisk,3,not english
+norsk,6,not english
+nynorsk,3,not english
+occitan,3,not english
+patois,3,english
+polski,3,not english
+portugu,3,not english
+rom,3,not english
+seeltersk,3,not english
+shqip,3,not english
+sicilianu,3,not english
+srpski,3,not english
+srpskohrvatski,3,not english
+sunda,3,not english
+suomi,3,not english
+svenska,3,not english
+tagalog,3,not english
+ro,3,not english
+walon,3,not english
